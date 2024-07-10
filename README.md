@@ -8,7 +8,7 @@ If we want to decompile the actual function FUN_00a3a5c8 (without the FUN_ prefi
 
 If there are any unnecessary matches or groups in the regex results, please place them in a file named "trash.txt".
 
-#Usage
+# Usage
 
 find a native function/debug function, put its name and it will decompile all references to it
 afterwards you can run regex on all of them to get whatever function/address you want
