@@ -10,5 +10,7 @@ If there are any unnecessary matches or groups in the regex results, please plac
 
 # Usage
 
+you can use the gui, or just dump all functions in the file(dumpAll.py), and print them to a single text file
+
 find a native function/debug function, put its name and it will decompile all references to it
 afterwards you can run regex on all of them to get whatever function/address you want
